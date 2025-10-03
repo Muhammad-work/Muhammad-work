@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=muhammad-work&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-work" />
 </p>
 
-- 🔭 I’m currently working on **ADtach corporation**
+- 🔭 I’m currently working on **Trivsys corporation**
 - 💼 I also have professional experience working on **ERP systems**
 - 👨‍💻 Explore my work and projects on [LinkedIn](https://www.linkedin.com/in/muhammadbaloch1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📫 Reach me at **balochmuhammad817@gmail.com**
